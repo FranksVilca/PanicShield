@@ -1,4 +1,5 @@
-package com.tu_paquete.ui.screen
+package com.example.panicshield
+
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.material3.Text
